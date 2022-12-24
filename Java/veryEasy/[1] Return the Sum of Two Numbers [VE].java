@@ -56,9 +56,27 @@ _________
 */
 //Your code should go here:
 
-public class Geeks {
-    public static void main(String[] args)
-    {
-        System.out.println("Hello world");
-    }
+/***** File name: Trial.java ******/
+class Geeks {
+	public static void main(String[] args)
+	{
+		System.out.println("Hello world");
+	}
 }
+
+class A 
+{ 
+   public static void main(String args[])
+   { 
+      String str[] = {""}; 
+      System.out.println("hi"); 
+      B.main(str); 
+   } 
+} 
+class B 
+{ 
+   public static void main(String args[]) 
+   { 
+     System.out.println("hello");
+   }
+} 
