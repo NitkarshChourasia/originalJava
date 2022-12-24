@@ -56,3 +56,9 @@ _________
 */
 //Your code should go here:
 
+public class Geeks {
+    public static void main(String[] args)
+    {
+        System.out.println("Hello world");
+    }
+}
