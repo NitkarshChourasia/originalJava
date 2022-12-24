@@ -60,7 +60,7 @@ _________
 class Geeks {
 	public static void main(String[] args)
 	{
-		System.out.println("Hello world");
+		System.out.println("Hello sexy");
 	}
 }
 
@@ -69,14 +69,15 @@ class A
    public static void main(String args[])
    { 
       String str[] = {""}; 
-      System.out.println("hi"); 
+      System.out.println("fuck, you bitch"); 
       B.main(str); 
+      System.out.println("SEX");
    } 
 } 
 class B 
 { 
    public static void main(String args[]) 
    { 
-     System.out.println("hello");
+     System.out.println("Relationship are far more complex things, then I thought it to be.");
    }
 } 
