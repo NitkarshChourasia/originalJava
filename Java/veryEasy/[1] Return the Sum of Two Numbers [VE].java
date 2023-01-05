@@ -56,28 +56,3 @@ _________
 */
 //Your code should go here:
 
-/***** File name: Trial.java ******/
-class Geeks {
-	public static void main(String[] args)
-	{
-		System.out.println("Hello sexy");
-	}
-}
-
-class A 
-{ 
-   public static void main(String args[])
-   { 
-      String str[] = {""}; 
-      System.out.println("fuck, you bitch"); 
-      B.main(str); 
-      System.out.println("SEX");
-   } 
-} 
-class B 
-{ 
-   public static void main(String args[]) 
-   { 
-     System.out.println("Relationship are far more complex things, then I thought it to be.");
-   }
-} 
