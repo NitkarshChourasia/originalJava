@@ -61,3 +61,7 @@ class myclass{
         return a+b;
     }
 }
+
+Systemout.println(SumOfTwoNumbers(3, 2))
+Systemout.println(SumOfTwoNumbers(-3, -6))
+Systemout.println(SumOfTwoNumbers(7, 3))
