@@ -56,12 +56,3 @@ _________
 */
 //Your code should go here:
 
-class myclass{
-    public static int SumOfTwoNumbers(int a, int b){
-        return a+b;
-    }
-}
-
-Systemout.println(SumOfTwoNumbers(3, 2))
-Systemout.println(SumOfTwoNumbers(-3, -6))
-Systemout.println(SumOfTwoNumbers(7, 3))
