@@ -57,10 +57,8 @@ _________
 //Your code should go here:
 
 class myClass1 {
-      public static int SumOfTwoNumbers(int a, int b) {
+      static int SumOfTwoNumbers(int a, int b) {
             return a + b;
       }
 }
-// System.out.println(myClass1.SumOfTwoNumbers(3, 2));
-// System.out.println(myClass1.SumOfTwoNumbers(-3, -6));
-// System.out.println(myClass1.SumOfTwoNumbers(7, 3));
+
