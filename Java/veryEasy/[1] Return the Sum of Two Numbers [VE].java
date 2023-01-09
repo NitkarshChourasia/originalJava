@@ -26,7 +26,7 @@ ___
 
 
 
-[algebra] [language_fundamentals] [math] [numbers] 
+[algebra] [language_fundamentals] [math] [numbers]
 
 
 
@@ -61,7 +61,6 @@ class myClass1 {
             return a + b;
       }
 }
-
-System.out.println(myClass1.SumOfTwoNumbers(3, 2));
-System.out.println(myClass1.SumOfTwoNumbers(-3, -6));
-System.out.println(myClass1.SumOfTwoNumbers(7, 3));
+// System.out.println(myClass1.SumOfTwoNumbers(3, 2));
+// System.out.println(myClass1.SumOfTwoNumbers(-3, -6));
+// System.out.println(myClass1.SumOfTwoNumbers(7, 3));
